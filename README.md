@@ -13,4 +13,4 @@ We also designed algorithms to define our road map and how to analyze informatio
 
 Go to the next page to get started
 
-[![Next - Page](https://img.shields.io/badge/Next-Page-47B5FF?style=for-the-badge)](https://)
+[![Next - Page](https://img.shields.io/badge/Next-Page-47B5FF?style=for-the-badge)](https://github.com/Football-Data-Analytics/Data-Filtering-Algorithms/blob/main/FirstStep.md)
