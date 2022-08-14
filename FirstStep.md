@@ -10,7 +10,8 @@ On this page there are filters that will separate the players who are most likel
 
  - Excluding **injured** and **suspended** players
  - Excluding the players who have been **on the bench** for the last **13 games** in the previous **15 games**
- - Soon ...
+ - Excluding out players who have a lot of same position players in their team ( More details later )
+ - Separation of players based on position into four categories: goalkeepers, defenders, midfielders, and forwards
 
 
-[![Prev - Page](https://img.shields.io/badge/Prev-Page-red?style=for-the-badge)](https://github.com/Football-Data-Analytics/Data-Filtering-Algorithms/blob/main/README.md) [![Next - Page](https://img.shields.io/badge/Next-Page-47B5FF?style=for-the-badge)](https://)
+[![Prev - Page](https://img.shields.io/badge/Prev-Page-red?style=for-the-badge)](https://github.com/Football-Data-Analytics/Data-Filtering-Algorithms/blob/main/README.md) [![Next - Page](https://img.shields.io/badge/Next-Page-47B5FF?style=for-the-badge)](https://github.com/Football-Data-Analytics/Data-Filtering-Algorithms/blob/main/GoalKeepers.md)
