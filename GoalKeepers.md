@@ -3,7 +3,7 @@
 Each of the following criteria affects the overall rank of a player as much as their coefficients.
 Finally, the players are sorted according to their ranks.
 
-## Criterias fot goalkeepers
+## Criterias for goalkeepers
  - xG conceded **[ x6 ]**
  - Minutes played **[ x1 ]**
  - Errors led to goal **[ -x3 ]**
